@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1771828056523,
+    "name": "Pluit",
+    "phone": "081315877766",
+    "address": "Jl. Pluit Selatan Raya No.6 BLOK S, RT.022/RW.8, Pluit, Kecamatan Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",
+    "city": "Jakarta Utara",
+    "openingHour": "09:00",
+    "closingHour": "23:00",
+    "image": "/uploads/1771828056515-padel-vs-tenis-1024x576.webp"
+  },
+  {
+    "id": 1771833786308,
+    "name": "Lebak Bulus",
+    "phone": "082112438321",
+    "address": "Jl. Lebak Bulus Raya No.17, RT.8/RW.2, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 15440",
+    "city": "Jakarta Selatan",
+    "openingHour": "10:00",
+    "closingHour": "23:00",
+    "image": "/uploads/1771833786303-padel-vs-tenis-1024x576.webp"
+  },
+  {
+    "id": 1772075749196,
+    "name": "Slipi",
+    "phone": "08216900545",
+    "address": "Jl. Letjen S. Parman No.2 Lantai 2, RT.4/RW.3, Slipi, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11410",
+    "city": "Jakarta Utara",
+    "openingHour": "10:00",
+    "closingHour": "23:00",
+    "image": "/uploads/1772075749189-orange-garden-padel.jpg.webp"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "status": "joined",
+    "role": "Admin",
+    "joinDate": "12 Aug 2023"
+  },
+  {
+    "id": "aubfkwbakf",
+    "name": "Jajang Mulayani",
+    "email": "cumancontoh@gmail.com",
+    "status": "invited",
+    "role": "Pengemis",
+    "joinDate": "19 Feb 2026"
+  },
+  {
+    "id": "z13errgw7",
+    "name": "Maman",
+    "email": "aline@gmail.com",
+    "status": "invited",
+    "role": "Designer",
+    "joinDate": "20 Feb 2026"
+  }
+]
