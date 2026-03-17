@@ -44,7 +44,18 @@ model Staff {
   name      String
   email     String   @unique
   status    String   @default("invited")
-  role      String
+  roleId    String
   joinDate  String
   createdAt DateTime @default(now())
+}
+model Role {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  permissions Json     
+  status      String   @default("ACTIVE")
+  createdAt   DateTime @default(now()) // Tambahkan ini
+  updatedAt   DateTime @updatedAt      // Tambahkan ini
+
+  @@map("roles")
 }
